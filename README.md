@@ -16,4 +16,16 @@ This project is part of The Odin Project Foundations Curriculum. It focuses on b
 
 ## Purpose
 
-The main objective of this project is to strengthen the understanding of fundamental HTML concepts through practical application, ensuring a solid foundation for future web development projects.
+The main objective of this project is to strengthen the understanding of
+fundamental HTML concepts through practical application, ensuring a solid
+foundation for future web development projects.
+
+## Image Credits
+
+-   "Apple Crisp" by
+    [azerbaijan-stockers](https://www.freepik.com/author/azerbaijan-stockers),
+    used under the Freepik Free License (attribution required).
+-   "Braised Beef" by [Freepik](https://www.freepik.com) (used under Freepik Free
+    License).
+-   "Italian Sunday Sauce" by [Freepik](https://www.freepik.com) (used under Freepik Free
+    License).
